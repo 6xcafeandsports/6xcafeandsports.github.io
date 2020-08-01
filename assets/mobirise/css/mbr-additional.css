@@ -1705,26 +1705,3 @@ section.lazy-placeholder:after {
 .cid-qTkzRZLJNu .dropdown-item:hover {
   color: #c1c1c1 !important;
 }
-.cid-s6oAefRXFD {
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2e2e2e;
-}
-.cid-s6oAefRXFD .line {
-  background-color: #ffffff;
-  color: #ffffff;
-  align: center;
-  height: 2px;
-  margin: 0 auto;
-}
-.cid-s6oAefRXFD .section-text {
-  padding: 2rem 0;
-}
-.cid-s6oAefRXFD .inner-container {
-  margin: 0 auto;
-}
-@media (max-width: 768px) {
-  .cid-s6oAefRXFD .inner-container {
-    width: 100% !important;
-  }
-}
