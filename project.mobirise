@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -845,7 +845,7 @@
         }
       ]
     },
-    "page1.html": {
+    "blog.html": {
       "settings": {
         "meta_descr": "Website Creator Description",
         "title": "blog",
